@@ -3,7 +3,7 @@
 ## Overview
 This repository contains the final project for the Statistics course in the Data Science program at Ada Tech School. The dataset utilized in this project is derived from Kaggle and encompasses various conflict events in Brazil ranging from armed conflicts with fatalities to peaceful protests and marches.
 
-All data used are official figures sourced from the Armed Conflict Location & Event Data Project (ACLED). The dataset has been compiled and structured by the author. The data used is based on ACLED's Latin America & the Caribbean dataset updated as of January 20th, 2023 and last accessed on January 28th, 2023. Data from countries outside of Brazil and ID-related variables provided by ACLED, which were deemed insignificant for statistical analysis, have been excluded from this dataset.
+All data used are official figures sourced from the Armed Conflict Location & Event Data Project (ACLED). 
 
 ## Insights & Analysis
 The notebook within this repository provides comprehensive insights and analysis of the conflict events. For each significant event, further information and interpretations based on the author's understanding and research have been included.
