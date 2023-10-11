@@ -48,6 +48,7 @@ This document provided the necessary clarifications and definitions for any vari
 Special acknowledgment to Justin Oh , the Kaggle user responsible for compiling and making this dataset available to the public. 
 
 ## Contributing
+Due to the extensive number of variables in this database, this analysis project extends to various other necessary nuances for a conclusive data analysis.
 If you have suggestions or improvements, feel free to contribute. Ensure your contributions are in line with the project’s guidelines and relevant to the analysis and insights provided.
 
 ## License
